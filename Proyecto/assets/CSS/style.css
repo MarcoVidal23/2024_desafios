@@ -1,0 +1,47 @@
+
+
+.pelicula_titulo {
+  background-image: url("../../assets/imgs/diagrama.png");
+  background-size: cover;
+  background-position: center;
+  height: 20em;
+                   }
+
+                                                         
+
+.texto          {
+  position:absolute;
+  transform: translate(-40%, -40%);
+  top: 20%; 
+  left: 20%; 
+  background-color: grey; 
+  width: 59em;
+  color: black; 
+  padding: 0,5%; 
+  font-size:20px;
+  text-align:center ; 
+  margin:0,67em;
+                }
+
+                  
+.main            {
+    background-color: whitesmoke;
+    background-size: cover;
+    color:White ;
+    text-align: justify
+                  }
+
+                  
+.tabla           {
+  height: 30vh;
+  margin-left: 2vh;
+
+                 }
+.pie             {
+  height: 9% ;
+  background-color: chocolate;
+  color: black ;
+  text-align: center;
+                 }
+
+

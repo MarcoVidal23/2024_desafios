@@ -1,0 +1,44 @@
+header{
+    height: 20vh;
+}
+
+
+
+#principal {
+    height: 70vh;
+    background-color: brown;
+}
+
+.btn {
+    width: 200px ;
+    height: 40px  ;
+    border-radius: 50px ;
+    background-color: transparent;
+}
+
+.btn-danger {
+    width: 3px solid red  ;
+    color: red ;
+    align-self: auto;
+    background-color: transparent;
+}
+
+.btn-warning {
+    width: 4px solid yellow ;
+    border: 6 yellow;
+    color: black ;
+}
+
+
+
+
+.btn-success {
+    width: 3px solid green ;
+    border: 6cap green ;
+    color: green solid ;
+}
+
+.foot{
+    height: 10vh;
+    background-color: chartreuse;
+}
