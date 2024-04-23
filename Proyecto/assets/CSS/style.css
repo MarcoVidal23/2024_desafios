@@ -1,0 +1,35 @@
+.pelicula_titulo {
+  position: relative;
+  display: inline-block;
+}
+
+.texto {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(128, 128, 128);
+  color: white;
+  padding: 1px 1%;
+  font-size: 30px;
+  text-align: center;
+}
+
+.main {
+  background-color: whitesmoke;
+  background-size: cover;
+  color: White;
+  text-align: justify;
+}
+
+.tabla {
+  height: 30vh;
+  margin-left: 2vh;
+}
+.pie {
+  height: 9%;
+  background-color: chocolate;
+  color: white;
+  text-align: center;
+}

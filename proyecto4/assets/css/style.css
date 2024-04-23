@@ -1,0 +1,33 @@
+body {
+  height: 20pt;
+  font-family: "Roboto",Light;
+  font-weight: 300;
+  margin: 0%;
+}
+
+
+.subtexto {
+   font-family: "Roboto",Light;
+    font-size:12px;
+    overflow: hidden;
+    margin-top: 0 ;
+    margin: 0%;
+    padding: 0%;
+}
+
+.pequeño {
+   font-family: "Roboto",Light;
+    font-size:10px;
+    margin-top: 0 ;
+    margin: 0%;
+    padding: 0%;
+}
+
+.normal {
+   font-family: "Roboto",Light;
+    font-size:15px;
+    margin-top: 0 ;
+    margin: 0%;
+    padding: 0%;
+    color:#07631c ;
+}
